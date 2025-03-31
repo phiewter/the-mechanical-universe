@@ -33,9 +33,15 @@ To get started, it is recommended to create and activate a Python virtual enviro
 
 3. **Install the necessary dependencies**:
 
-   ```bash
-   pip install matplotlib numpy
-   ```
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+    or
+
+    ```bash
+    pip install matplotlib numpy
+    ```
 
 4. **Run the project**:
 
