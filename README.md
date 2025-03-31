@@ -1,4 +1,4 @@
-# The Mechanical Universe Episode Descriptions with Annotations and Graphs
+# The Mechanical Universe
 
 This project aims to provide descriptions and annotations for every episode of _The Mechanical Universe: The Physics of the Universe_. Graphs and visual representations are integrated into the explanations, using Python's powerful `matplotlib` library, to help clarify and visualize the underlying physics concepts.
 
